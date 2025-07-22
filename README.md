@@ -1,5 +1,44 @@
-# my-projects
 
 
+Show Raw Markdown
+Tutorial: Local_Service_Finder
+Local_Service_Finder is a Java Swing application designed to connect users with local service providers. It features intuitive user interface forms for account management, allowing both users and service providers to sign up and log in. Service providers can submit detailed profiles of their offerings, which are then displayed in a browsable service catalog. All critical application data, including accounts and service details, is persisted and retrieved using a robust JDBC database connectivity layer.
 
-Hey i am Vighnesh, i am a student of Finolex Academy of management and Technology studying IT Engineering right now i am in second year(3rd semester) and i am working on my java mini project(project name : local Service finder) for almost two weeks because this was my first java project i have also faced some difficulties 2 days ago i have presented this project in front of external and i have got positive response. my project is partially completed today i only post my project zip file probably i should add some new features and i'll put my project as an .exe file in couple of days. you can open my project in your netbeans make changes and if you have some queries in my project please feel free to ask Thank you.......😊
+Visual Overview
+Initiates account processes
+
+Captures profile data
+
+Displays services
+
+Presents tabular data
+
+Persists account data
+
+Persists provider data
+
+Retrieves service data
+
+Structures service display
+
+Fetches table data
+
+User Interface Forms
+
+User and Provider Account Management
+
+Database Connectivity Layer (JDBC)
+
+Service Provider Profile Submission
+
+Service Catalog and Listing
+
+Table Data Management
+
+Chapters
+User Interface Forms
+User and Provider Account Management
+Service Catalog and Listing
+Service Provider Profile Submission
+Table Data Management
+Database Connectivity Layer (JDBC)
